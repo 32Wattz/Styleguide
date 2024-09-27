@@ -1,0 +1,123 @@
+#header {
+  background-color: dimgray;
+  text-transform: uppercase;
+  color: white;
+  text-align: center;
+}
+ h2 {
+  display: block;
+ }
+
+ .colors {
+  width: 100%;
+  display: block;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 10px auto;
+ }
+
+ .color-panel-darkviolet, .color-panel-deeppink, .color-panel-DeepSkyBlue, .color-panel-DimGray{
+display: inline-block;
+width: 32%;
+text-align: center;
+margin: 20px auto;
+min-height: 100px;
+}
+
+ .color-panel-darkviolet {
+  background-color: DarkViolet;
+  color: white;
+ }
+
+ .color-panel-deeppink {
+  background-color: DeepPink;
+ }
+
+ .color-panel-DeepSkyBlue {
+  background-color: DeepSkyBlue;
+ }
+
+ .color-panel-DimGray {
+  background-color: DimGray;
+  color: white;
+ }
+
+ .roboto-regular, .font-label-roboto {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-medium-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.edu-au-vic-wa-nt-guides-regular, .font-label-Edu {
+  font-family: "Edu AU VIC WA NT Guides", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.edu-au-vic-wa-nt-guides-medium {
+  font-family: "Edu AU VIC WA NT Guides", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.edu-au-vic-wa-nt-guides-bold {
+  font-family: "Edu AU VIC WA NT Guides", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.magra-regular, .font-label-Magra {
+  font-family: "Magra", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.magra-bold {
+  font-family: "Magra", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.font-panel {
+  display: inline-block;
+width: 32%;
+text-align: center;
+margin: 20px auto;
+min-height: 100px;
+}
+
+.fonts {
+  width: 100%;
+  display: block;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.font-label-roboto, .font-label-Edu, .font-label-Magra {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.texts {
+  width: 100%;
+  display: block;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 10px auto;
+}
